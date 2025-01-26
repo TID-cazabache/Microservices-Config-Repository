@@ -5,8 +5,8 @@ Logging:
         Microsoft.Hosting.Lifetime: Information
         Microsoft.EntityFrameworkCore.Database.Command: Information
 ServicesUrl:
-    PolicyApiUrl: http://Microservices.Demo.Pricing.API/api/Policies  
-    ProductApiUrl: http://Microservices.Demo.Pricing.API/api/Products  
+    PolicyApiUrl: http://Microservices.Demo.Policy.API/api/Policies  
+    ProductApiUrl: http://Microservices.Demo.Product.API/api/Products  
 RabbitMQSettings:
     Username: admin
     Password: admin
